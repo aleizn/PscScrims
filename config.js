@@ -5,8 +5,8 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['50257681618', '𝐉𝐡𝐮𝐬𝐳ᙆ  ᷦ×͜×', true],
-  ['50230118401', '𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ', true],
+  ['51913059921', '𝐌𝐚𝐟𝐟𝐞𝐫  ᷦ×͜×', true],
+  ['51917545642', '@𝐀𝐥𝐞.𝐢𝐳𝐧.𝟐𝟎  ᷦ', true],
 ] // Cambia los numeros que quieras
 global.mods = [] 
 global.prems = [] 
@@ -63,11 +63,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝐉𝐡𝐮𝐬𝐳ᙆ  ᷦ×͜×'
-global.author = '★ 𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ★'
+global.packname = '𝐂𝐎𝐌𝐔𝐍𝐈𝐃𝐀𝐃 𝐏𝐒𝐂 <𝟑  ᷦ×͜×'
+global.author = '★ 𝐂𝐎𝐌𝐔𝐍𝐈𝐃𝐀𝐃 𝐏𝐒𝐂 <𝟑  ᷦ★'
 
-global.wm = '★ 𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ★'
-global.igfg = '★ 𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ★'
+global.wm = '★ 𝐂𝐎𝐌𝐔𝐍𝐈𝐃𝐀𝐃 𝐏𝐒𝐂 <𝟑  ᷦ★'
+global.igfg = '★ 𝐂𝐎𝐌𝐔𝐍𝐈𝐃𝐀𝐃 𝐏𝐒𝐂 <𝟑  ᷦ★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
